@@ -20,3 +20,7 @@ class AppImages {
 
   static const String scallope = "assets/images/scallope.png";
 }
+
+
+// https://flagdownload.com/flag-of-netherlands/
+// https://www.countryflags.com/
