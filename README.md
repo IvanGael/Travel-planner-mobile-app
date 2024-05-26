@@ -1,6 +1,6 @@
 Travel planner mobile app
 
-![Demo](https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/travel-planner.gif" alt="Demo)
+![Demo](assets/images/travel-planner.gif)
 
 
 ### Design reference
